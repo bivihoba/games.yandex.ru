@@ -234,7 +234,7 @@ body .link_outer_yes, body .link_outer_yes:visited {
 }
 
 .i-ua_inlinesvg_no .popup__close, .i-ua_svg_no .popup__close {
-	background:url(//yastatic.net/images-islands/_/_1tfIBlbbO-sFZX3BSjgbsFLIaE.png) no-repeat
+	background:url(../_files/1tfIBlbbO-sFZX3BSjgbsFLIaE.png) no-repeat
 }
 
 .popup__close:hover {
@@ -1080,7 +1080,7 @@ a.button:hover, a.button:link, a.button:visited {
 }
 
 .i-ua_inlinesvg_no .more .button__text {
-	background-image:url(//yastatic.net/images-islands/_/GaCJVx_GhAeZ0LZcMfh2pj4WY-Q.png)
+	background-image:url(http://yastatic.net/images-islands/_/GaCJVx_GhAeZ0LZcMfh2pj4WY-Q.png)
 }
 
 .more__button.button_theme_pseudo.button_pseudo_yes {
@@ -1180,7 +1180,7 @@ a.button:hover, a.button:link, a.button:visited {
 	display:inline-block;
 	visibility:hidden;
 	color:transparent;
-	background-image:url(//yastatic.net/images-islands/_/lMheXM1Y3XcixfNpGnrupH6cjfc.gif);
+	background-image:url(http://yastatic.net/images-islands/_/lMheXM1Y3XcixfNpGnrupH6cjfc.gif);
 	background-image:-webkit-linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
 	background-image:-moz-linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
 	background-image:linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0))
@@ -1450,11 +1450,11 @@ a.button:hover, a.button:link, a.button:visited {
 }
 
 .i-ua_svg_no .complain__wrap {
-	background-image:url(//yastatic.net/images-islands/_/v-zz4NP2Rju5Dncny4dZ0QK22Q0.png)
+	background-image:url(http://yastatic.net/images-islands/_/v-zz4NP2Rju5Dncny4dZ0QK22Q0.png)
 }
 
 .i-ua_svg_no .serp-group_theme_dark .complain__wrap, .i-ua_svg_no .serp-item_theme_dark .complain__wrap {
-	background-image:url(//yastatic.net/images-islands/_/jKBwMTya4XTw_LskuPXnGeTKkI.png)
+	background-image:url(http://yastatic.net/images-islands/_/jKBwMTya4XTw_LskuPXnGeTKkI.png)
 }
 
 .complain_full_yes {
@@ -1738,7 +1738,7 @@ body .serp-item__plates .serp-item__fresh {
 }
 
 .i-ua_svg_no .serp-mark {
-	background-image:url(//yastatic.net/images-islands/_/94y3xCZ7QNAzVRnfG3BRJaboxkw.png)
+	background-image:url(http://yastatic.net/images-islands/_/94y3xCZ7QNAzVRnfG3BRJaboxkw.png)
 }
 
 .serp-mark:hover {
@@ -2077,7 +2077,7 @@ body .serp-item__plates .serp-item__fresh {
 }
 
 .i-ua_svg_no .ribbon__arrow {
-	background-image:url(//yastatic.net/images-islands/_/Cmh1Lg5PZuuhE7IiPp6CNvqxuYI.png)
+	background-image:url(http://yastatic.net/images-islands/_/Cmh1Lg5PZuuhE7IiPp6CNvqxuYI.png)
 }
 
 .ribbon__control_side_left .ribbon__arrow {
@@ -2187,7 +2187,7 @@ body .serp-item__plates .serp-item__fresh {
 	right:13px;
 	width:13px;
 	height:8px;
-	background:url(//yastatic.net/images-islands/_/ejvQUsUtqW3VT_TD81bHSJc8MtM.png) no-repeat
+	background:url(http://yastatic.net/images-islands/_/ejvQUsUtqW3VT_TD81bHSJc8MtM.png) no-repeat
 }
 
 .i-ua_inlinesvg_no .b-500px__caption .button .button__text::after {
@@ -2221,7 +2221,7 @@ body .serp-item__plates .serp-item__fresh {
 }
 
 .i-ua_svg_no .b-500px__back .button .button__text::after {
-	background-image:url(//yastatic.net/images-islands/_/cqiA4Q6wt3sBmockalgjk6oMRw8.png)
+	background-image:url(http://yastatic.net/images-islands/_/cqiA4Q6wt3sBmockalgjk6oMRw8.png)
 }
 
 .b-500px__back .button_theme_pseudo {
@@ -2493,7 +2493,7 @@ body .serp-item__plates .serp-item__fresh {
 }
 
 .i-ua_inlinesvg_no .b-500px__download .button__text::after {
-	background-image:url(//yastatic.net/images-islands/_/0CksoJxNvsb37hN4GqvdWi-QjMo.png)
+	background-image:url(http://yastatic.net/images-islands/_/0CksoJxNvsb37hN4GqvdWi-QjMo.png)
 }
 
 .b-500px__download-timer {
@@ -2544,7 +2544,7 @@ body .serp-item__plates .serp-item__fresh {
 }
 
 .i-ua_inlinesvg_no .b-500px__footer .button_type_search .button__icon {
-	background-image:url(//yastatic.net/images-islands/_/re2u68-Y-Z2rBeBw5TEuPhGhXBY.png)
+	background-image:url(http://yastatic.net/images-islands/_/re2u68-Y-Z2rBeBw5TEuPhGhXBY.png)
 }
 
 @media (max-width:1000px) {
@@ -2857,7 +2857,7 @@ body .serp-item__plates .serp-item__fresh {
 }
 
 .i-ua_svg_no .b-500px-slider__arrow .b-500px-slider__arrow-icon {
-	background-image:url(//yastatic.net/images-islands/_/UWYDsbb-TPQTxzfJGDPWlHb9kP0.png)
+	background-image:url(http://yastatic.net/images-islands/_/UWYDsbb-TPQTxzfJGDPWlHb9kP0.png)
 }
 
 .i-ua_svg_no .b-500px-slider__arrow_dir_prev .b-500px-slider__arrow-icon {
@@ -3028,7 +3028,7 @@ body .serp-item__plates .serp-item__fresh {
 }
 
 .i-ua_svg_no .b-500px-popup__close {
-	background-image:url(//yastatic.net/images-islands/_/BKDeURz9kR_90e5D6sZNQIJzYOk.png)
+	background-image:url(http://yastatic.net/images-islands/_/BKDeURz9kR_90e5D6sZNQIJzYOk.png)
 }
 
 .b-500px-popup__close:hover {
@@ -3155,11 +3155,11 @@ body .serp-item__plates .serp-item__fresh {
 }
 
 .i-ua_svg_no .b-500px-subscribe__button {
-	background-image:url(//yastatic.net/images-islands/_/PUh-zcmt9s3syB2YOlD6l6oOGzU.png)
+	background-image:url(http://yastatic.net/images-islands/_/PUh-zcmt9s3syB2YOlD6l6oOGzU.png)
 }
 
 .i-ua_svg_no .b-500px_today_yes .b-500px-subscribe__button {
-	background-image:url(//yastatic.net/images-islands/_/ZdwPm0arYPdWdvokD_r-raS3Zh4.png)
+	background-image:url(http://yastatic.net/images-islands/_/ZdwPm0arYPdWdvokD_r-raS3Zh4.png)
 }
 
 .b-500px-subscribe__iframe {
@@ -3199,7 +3199,7 @@ body .serp-item__plates .serp-item__fresh {
 	padding:4px 6px 5px 22px;
 	word-wrap:break-word;
 	color:#fff;
-	background:url(//yastatic.net/share/static/b-share_counter_small.png) 0 -116px no-repeat #eb722e
+	background:url(http://yastatic.net/share/static/b-share_counter_small.png) 0 -116px no-repeat #eb722e
 }
 
 .b-500px-subscribe__odnoklassniki-group {
@@ -3294,7 +3294,7 @@ body .serp-item__plates .serp-item__fresh {
 }
 
 .i-ua_svg_no .b-500px-info__text-gear {
-	background-image:url(//yastatic.net/images-islands/_/cWit0r_xsiYQLYx9-6VZXUABHf0.png)
+	background-image:url(http://yastatic.net/images-islands/_/cWit0r_xsiYQLYx9-6VZXUABHf0.png)
 }
 
 .b-500px-info .b-500px-info__text-gear-button {
@@ -3310,7 +3310,7 @@ body .serp-item__plates .serp-item__fresh {
 }
 
 .i-ua_svg_no .b-500px-info__text-download {
-	background-image:url(//yastatic.net/images-islands/_/Uwyf2MAzG9bWBUoQuySKXTOBcWk.png)
+	background-image:url(http://yastatic.net/images-islands/_/Uwyf2MAzG9bWBUoQuySKXTOBcWk.png)
 }
 
 .b-500px-info__text-sizes {
@@ -3322,7 +3322,7 @@ body .serp-item__plates .serp-item__fresh {
 }
 
 .i-ua_svg_no .b-500px-info__text-sizes {
-	background-image:url(//yastatic.net/images-islands/_/sr3mb6OqSMASN86XfHBGTtJ5MMk.png)
+	background-image:url(http://yastatic.net/images-islands/_/sr3mb6OqSMASN86XfHBGTtJ5MMk.png)
 }
 
 .b-500px-info__content {
@@ -3402,7 +3402,7 @@ body .serp-item__plates .serp-item__fresh {
 }
 
 .i-ua_svg_no .b-500px-info__partner-logo_partner_500px {
-	background-image:url(//yastatic.net/images-islands/_/lFR4Fa7EYoSo8EgoLbnQh7b2-Ug.png)
+	background-image:url(http://yastatic.net/images-islands/_/lFR4Fa7EYoSo8EgoLbnQh7b2-Ug.png)
 }
 
 .b-500px-info__partner-logo_partner_fotki {
@@ -3413,7 +3413,7 @@ body .serp-item__plates .serp-item__fresh {
 }
 
 .i-ua_svg_no .b-500px-info__partner-logo_partner_fotki {
-	background-image:url(//yastatic.net/images-islands/_/n_Aj9dGO6oOamSqejzv--BdH-I4.png)
+	background-image:url(http://yastatic.net/images-islands/_/n_Aj9dGO6oOamSqejzv--BdH-I4.png)
 }
 
 .b-500px-info__partner-logo_partner_fotki-eng {
@@ -3424,7 +3424,7 @@ body .serp-item__plates .serp-item__fresh {
 }
 
 .i-ua_svg_no .b-500px-info__partner-logo_partner_fotki-eng {
-	background-image:url(//yastatic.net/images-islands/_/COzv5AnE1Aax3DfNxQzH_7lR1t0.png)
+	background-image:url(http://yastatic.net/images-islands/_/COzv5AnE1Aax3DfNxQzH_7lR1t0.png)
 }
 
 .b-500px-info__button {
@@ -3444,7 +3444,7 @@ body .serp-item__plates .serp-item__fresh {
 }
 
 .i-ua_svg_no .b-500px-info__button {
-	background-image:url(//yastatic.net/images-islands/_/qRPW_OjLTWP27cM0A_tvROw_xjo.png)
+	background-image:url(http://yastatic.net/images-islands/_/qRPW_OjLTWP27cM0A_tvROw_xjo.png)
 }
 
 .b-500px_today_yes .b-500px-info__button {
@@ -4763,7 +4763,7 @@ body .header__nav {
 }
 
 .i-ua_inlinesvg_no .logo_lang_ru .logo__link {
-	background-image:url(//yastatic.net/images-islands/_/lzwJ0TY0Jn7et47N1H19SjYk8SI.png)
+	background-image:url(http://yastatic.net/images-islands/_/lzwJ0TY0Jn7et47N1H19SjYk8SI.png)
 }
 
 .logo_lang_en .logo__link {
@@ -4771,7 +4771,7 @@ body .header__nav {
 }
 
 .i-ua_inlinesvg_no .logo_lang_en .logo__link {
-	background-image:url(//yastatic.net/images-islands/_/TYMBr4dOkJOE5RuFQ_iU2uSW4Qw.png)
+	background-image:url(http://yastatic.net/images-islands/_/TYMBr4dOkJOE5RuFQ_iU2uSW4Qw.png)
 }
 
 .logo {
@@ -5084,7 +5084,7 @@ body.b-page_mobile_yes .header_tablet_yes .header__search {
 }
 
 .i-ua_inlinesvg_no .header__action_type_adv .header__action-i {
-	background-image:url(//yastatic.net/images-islands/_/yk2tHhJsn6FpDUEivsx4ZhUqIXM.png)
+	background-image:url(http://yastatic.net/images-islands/_/yk2tHhJsn6FpDUEivsx4ZhUqIXM.png)
 }
 
 .header__action_type_srv .header__action-i {
@@ -5092,7 +5092,7 @@ body.b-page_mobile_yes .header_tablet_yes .header__search {
 }
 
 .i-ua_inlinesvg_no .header__action_type_srv .header__action-i {
-	background-image:url(//yastatic.net/images-islands/_/xP8HTAzcwxzxZ6f8YQgP6NPJyCI.png)
+	background-image:url(http://yastatic.net/images-islands/_/xP8HTAzcwxzxZ6f8YQgP6NPJyCI.png)
 }
 
 .layout_type_serp .layout__col {
@@ -5181,7 +5181,7 @@ body.b-page_mobile_yes .header_tablet_yes .header__search {
 }
 
 .i-ua_inlinesvg_no .user__enter .image {
-	background-image:url(//yastatic.net/images-islands/_/D_bdPNqv6HJlssMZjqrlv7FqetY.png)
+	background-image:url(http://yastatic.net/images-islands/_/D_bdPNqv6HJlssMZjqrlv7FqetY.png)
 }
 
 .image {
@@ -5278,7 +5278,7 @@ body.b-page_mobile_yes .header_tablet_yes .header__search {
 }
 
 .i-ua_inlinesvg_no .domik_logo_ru .domik__logo {
-	background-image:url(//yastatic.net/images-islands/_/aEONkK0c0SOJJah4j9b1zV1dgIo.png)
+	background-image:url(http://yastatic.net/images-islands/_/aEONkK0c0SOJJah4j9b1zV1dgIo.png)
 }
 
 .domik_logo_en .domik__logo {
@@ -5286,7 +5286,7 @@ body.b-page_mobile_yes .header_tablet_yes .header__search {
 }
 
 .i-ua_inlinesvg_no .domik_logo_en .domik__logo {
-	background-image:url(//yastatic.net/images-islands/_/9j2aoXUotMVh7jV_xMsVobBjOTw.png)
+	background-image:url(http://yastatic.net/images-islands/_/9j2aoXUotMVh7jV_xMsVobBjOTw.png)
 }
 
 .domik_type_popup .domik__roof-body {
@@ -5609,7 +5609,7 @@ body .domik__popup > .popup__content {
 
 .i-ua_inlinesvg_no .auth__social-icon {
 	opacity:.3;
-	background-image:url(//yastatic.net/images-islands/_/HoCGzOxB7JV3GEIrHail3KscnWE.png)
+	background-image:url(http://yastatic.net/images-islands/_/HoCGzOxB7JV3GEIrHail3KscnWE.png)
 }
 
 .i-ua_inlinesvg_no .auth__social-icon_code_vk {
@@ -6031,15 +6031,15 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .checkbox_size_s .checkbox__tick {
-	background-image:url(//yastatic.net/images-islands/_/IsxYQhW2POwwQMkiUwAi1SfbbsY.png)
+	background-image:url(http://yastatic.net/images-islands/_/IsxYQhW2POwwQMkiUwAi1SfbbsY.png)
 }
 
 .i-ua_inlinesvg_no .checkbox_size_m .checkbox__tick {
-	background-image:url(//yastatic.net/images-islands/_/6bvCeno64U8f57fb08T-Chhcyy4.png)
+	background-image:url(http://yastatic.net/images-islands/_/6bvCeno64U8f57fb08T-Chhcyy4.png)
 }
 
 .i-ua_inlinesvg_no .checkbox_disabled_yes .checkbox__tick {
-	background-image:url(//yastatic.net/images-islands/_/VGqcK7fNT6AdmzkAEeegQ5wZTqU.png)
+	background-image:url(http://yastatic.net/images-islands/_/VGqcK7fNT6AdmzkAEeegQ5wZTqU.png)
 }
 
 .checkbox_theme_normal {
@@ -6320,7 +6320,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .notification-panel-notice__close {
-	background-image:url(//yastatic.net/images-islands/_/Gh3MnimcGsuQ5Xirrqw0F11n2hA.png)
+	background-image:url(http://yastatic.net/images-islands/_/Gh3MnimcGsuQ5Xirrqw0F11n2hA.png)
 }
 
 .notification-panel-notice {
@@ -6375,7 +6375,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .notification-panel-notice_service_gamification .notification-panel-notice__inner {
-	background-image:url(//yastatic.net/images-islands/_/x7aQReslrw6TsrdqffJu29eDbyc.png)
+	background-image:url(http://yastatic.net/images-islands/_/x7aQReslrw6TsrdqffJu29eDbyc.png)
 }
 
 .notification-panel, .notification-panel__paranja {
@@ -6461,11 +6461,11 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .dropdown-menu__popup_user_yes .image_icon_mail {
-	background-image:url(//yastatic.net/images-islands/_/Us7qp78ek-60yhOUOFb5qzmjEfE.png)
+	background-image:url(http://yastatic.net/images-islands/_/Us7qp78ek-60yhOUOFb5qzmjEfE.png)
 }
 
 .i-ua_inlinesvg_no .dropdown-menu__popup_user_yes .image_icon_disk {
-	background-image:url(//yastatic.net/images-islands/_/yl2xCjPe51vbuLJ_3topNMqyPbc.png)
+	background-image:url(http://yastatic.net/images-islands/_/yl2xCjPe51vbuLJ_3topNMqyPbc.png)
 }
 
 .dropdown-menu__popup.dropdown-menu__popup_user_yes .link:hover {
@@ -6677,15 +6677,15 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .advanced-search .dropdown__icon_type_safety {
-	background-image:url(//yastatic.net/images-islands/_/2j1AvY5IwlvgqwChtwpWaWsoyJc.png)
+	background-image:url(http://yastatic.net/images-islands/_/2j1AvY5IwlvgqwChtwpWaWsoyJc.png)
 }
 
 .i-ua_inlinesvg_no .advanced-search .dropdown__icon_type_kids {
-	background-image:url(//yastatic.net/images-islands/_/L9iWFdt4F0HRypYs6V8jBn1V3yI.png)
+	background-image:url(http://yastatic.net/images-islands/_/L9iWFdt4F0HRypYs6V8jBn1V3yI.png)
 }
 
 .i-ua_inlinesvg_no .advanced-search .dropdown__icon_type_danger {
-	background-image:url(//yastatic.net/images-islands/_/bMfZicVhEKlb7OOI59FF_ILDA0A.png)
+	background-image:url(http://yastatic.net/images-islands/_/bMfZicVhEKlb7OOI59FF_ILDA0A.png)
 }
 
 .advanced-search__dropdown {
@@ -6782,7 +6782,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .advanced-search__action_type_reset .button__icon {
-	background:url(//yastatic.net/images-islands/_/ssgmUmGt5yYMzmI2RB2zzO-ueQg.png) no-repeat
+	background:url(http://yastatic.net/images-islands/_/ssgmUmGt5yYMzmI2RB2zzO-ueQg.png) no-repeat
 }
 
 .i-ua_inlinesvg_yes .advanced-search__action_type_reset.button_focused_yes .button__icon, .i-ua_inlinesvg_yes .advanced-search__action_type_reset.button_hovered_yes .button__icon, .i-ua_inlinesvg_yes .advanced-search__action_type_reset.button_pressed_yes .button__icon {
@@ -6839,7 +6839,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .button_arrow_down .button__text:after {
-	background:url(//yastatic.net/images-islands/_/x3Ooq12yPew-x4JJ3cGvjmbKmSw.png) no-repeat
+	background:url(http://yastatic.net/images-islands/_/x3Ooq12yPew-x4JJ3cGvjmbKmSw.png) no-repeat
 }
 
 .popup_autosize_yes .popup__content {
@@ -7491,7 +7491,7 @@ body .domik__popup > .popup__content {
 
 .i-ua_inlinesvg_no .radiobox_theme_normal .radiobox__radio_type_color.radiobox__radio_checked_yes .radiobox__box {
 	height:10px;
-	background:url(//yastatic.net/images-islands/_/huUVPXF3sLUormt3zAsN2TtkI3c.png) no-repeat
+	background:url(http://yastatic.net/images-islands/_/huUVPXF3sLUormt3zAsN2TtkI3c.png) no-repeat
 }
 
 .i-ua_inlinesvg_no .radiobox_theme_normal .radiobox__radio_color_white.radiobox__radio_checked_yes .radiobox__box {
@@ -7788,7 +7788,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__images_color_56 {
-	background:url(//yastatic.net/images-islands/_/NOYFRn-Fg9Lv0luphma52NkYKOA.png)
+	background:url(http://yastatic.net/images-islands/_/NOYFRn-Fg9Lv0luphma52NkYKOA.png)
 }
 
 .service-icon__maps_color_56 {
@@ -7798,7 +7798,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__maps_color_56 {
-	background:url(//yastatic.net/images-islands/_/STa864aofbZaKhR8hJ2lJEhUMY4.png)
+	background:url(http://yastatic.net/images-islands/_/STa864aofbZaKhR8hJ2lJEhUMY4.png)
 }
 
 .service-icon__weather_color_56 {
@@ -7808,7 +7808,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__weather_color_56 {
-	background:url(//yastatic.net/images-islands/_/POOhuK9umGrdROO8hnUfTBzG-TY.png)
+	background:url(http://yastatic.net/images-islands/_/POOhuK9umGrdROO8hnUfTBzG-TY.png)
 }
 
 .service-icon__news_color_56 {
@@ -7818,7 +7818,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__news_color_56 {
-	background:url(//yastatic.net/images-islands/_/uVcAirOf7qZch1ItjkoPbRgishI.png)
+	background:url(http://yastatic.net/images-islands/_/uVcAirOf7qZch1ItjkoPbRgishI.png)
 }
 
 .service-icon__mail_color_56 {
@@ -7828,7 +7828,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__mail_color_56 {
-	background:url(//yastatic.net/images-islands/_/KDWLJ9ohfHrAD_W--O1J3T-AMLY.png)
+	background:url(http://yastatic.net/images-islands/_/KDWLJ9ohfHrAD_W--O1J3T-AMLY.png)
 }
 
 .service-icon__video_color_56 {
@@ -7838,7 +7838,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__video_color_56 {
-	background:url(//yastatic.net/images-islands/_/O-MqAx_hxsmDkbH3jInx5v0smyU.png)
+	background:url(http://yastatic.net/images-islands/_/O-MqAx_hxsmDkbH3jInx5v0smyU.png)
 }
 
 .service-icon__translate_color_56 {
@@ -7848,7 +7848,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__translate_color_56 {
-	background:url(//yastatic.net/images-islands/_/HzomEJxeGqv1C3PNOH6SAQHxsIw.png)
+	background:url(http://yastatic.net/images-islands/_/HzomEJxeGqv1C3PNOH6SAQHxsIw.png)
 }
 
 .service-icon__browser_color_56 {
@@ -7858,7 +7858,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__browser_color_56 {
-	background:url(//yastatic.net/images-islands/_/CKhvfpXehOFyrz_pAurRYxGfU6w.png)
+	background:url(http://yastatic.net/images-islands/_/CKhvfpXehOFyrz_pAurRYxGfU6w.png)
 }
 
 .service-icon__afisha_color_56 {
@@ -7868,7 +7868,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__afisha_color_56 {
-	background:url(//yastatic.net/images-islands/_/WpANbAgM_7ruQ1FZhNXE7x_7IHc.png)
+	background:url(http://yastatic.net/images-islands/_/WpANbAgM_7ruQ1FZhNXE7x_7IHc.png)
 }
 
 .service-icon__disk_color_56 {
@@ -7878,7 +7878,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__disk_color_56 {
-	background:url(//yastatic.net/images-islands/_/PZYJRTj28s_UwiCUnAR_BVZZNhQ.png)
+	background:url(http://yastatic.net/images-islands/_/PZYJRTj28s_UwiCUnAR_BVZZNhQ.png)
 }
 
 .service__url {
@@ -7906,7 +7906,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__market_color_56 {
-	background:url(//yastatic.net/images-islands/_/F_n_kz6BRYshsRQxopqY2CHSWRc.png)
+	background:url(http://yastatic.net/images-islands/_/F_n_kz6BRYshsRQxopqY2CHSWRc.png)
 }
 
 .service-icon__slovari_color_56 {
@@ -7916,7 +7916,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__slovari_color_56 {
-	background:url(//yastatic.net/images-islands/_/OeHKlrHvRNPDSxyNXSvoPMSXqDs.png)
+	background:url(http://yastatic.net/images-islands/_/OeHKlrHvRNPDSxyNXSvoPMSXqDs.png)
 }
 
 .service-icon__music_color_56 {
@@ -7926,11 +7926,11 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__music_color_56 {
-	background:url(//yastatic.net/images-islands/_/0oMtvxBYuzNoMtzDgmMhvgrRObA.png)
+	background:url(http://yastatic.net/images-islands/_/0oMtvxBYuzNoMtzDgmMhvgrRObA.png)
 }
 
 .i-ua_inlinesvg_no.i-ua_retina_yes .service-icon__music_color_56 {
-	background:url(//yastatic.net/images-islands/_/nkvasex3SwDWMeTYgt_O7xrub2Q.png)
+	background:url(http://yastatic.net/images-islands/_/nkvasex3SwDWMeTYgt_O7xrub2Q.png)
 }
 
 .service-icon__taxi_color_56 {
@@ -7940,7 +7940,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__taxi_color_56 {
-	background:url(//yastatic.net/images-islands/_/uO-0p2bEWkiFILHCRryRPLesI3Q.png)
+	background:url(http://yastatic.net/images-islands/_/uO-0p2bEWkiFILHCRryRPLesI3Q.png)
 }
 
 .service-icon__auto_color_56 {
@@ -7950,7 +7950,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__auto_color_56 {
-	background:url(//yastatic.net/images-islands/_/w2mQvAAedmTqePaaqSF1bRdZe9Q.png)
+	background:url(http://yastatic.net/images-islands/_/w2mQvAAedmTqePaaqSF1bRdZe9Q.png)
 }
 
 .service-icon__money_color_56 {
@@ -7960,7 +7960,7 @@ body .domik__popup > .popup__content {
 }
 
 .i-ua_inlinesvg_no .service-icon__money_color_56 {
-	background:url(//yastatic.net/images-islands/_/39WKYmEx5KZ4Zs18sEJfaGSAgc4.png)
+	background:url(http://yastatic.net/images-islands/_/39WKYmEx5KZ4Zs18sEJfaGSAgc4.png)
 }
 
 .services-table_type_com {
@@ -8573,7 +8573,7 @@ body.b-page_mobile_yes .header_tablet_yes .arrow__corner {
 .country-flag_s16_by {
 	width:16px;
 	height:12px;
-	background:url(//yastatic.net/images-islands/_/rXMr0axKjRQEIgbchpMuQtEQbQ8.png) no-repeat
+	background:url(http://yastatic.net/images-islands/_/rXMr0axKjRQEIgbchpMuQtEQbQ8.png) no-repeat
 }
 
 .i-ua_svg_yes .country-flag_s16_by {
@@ -8583,7 +8583,7 @@ body.b-page_mobile_yes .header_tablet_yes .arrow__corner {
 .country-flag_s16_gb {
 	width:16px;
 	height:12px;
-	background:url(//yastatic.net/images-islands/_/haW3X0r1G7gcRc-kFb4YjnPO6I4.png) no-repeat
+	background:url(http://yastatic.net/images-islands/_/haW3X0r1G7gcRc-kFb4YjnPO6I4.png) no-repeat
 }
 
 .i-ua_svg_yes .country-flag_s16_gb {
@@ -8593,7 +8593,7 @@ body.b-page_mobile_yes .header_tablet_yes .arrow__corner {
 .country-flag_s16_kz {
 	width:16px;
 	height:12px;
-	background:url(//yastatic.net/images-islands/_/e-aoL77SMbdXg6qL83OrF5bmRmM.png) no-repeat
+	background:url(http://yastatic.net/images-islands/_/e-aoL77SMbdXg6qL83OrF5bmRmM.png) no-repeat
 }
 
 .i-ua_svg_yes .country-flag_s16_kz {
@@ -8603,7 +8603,7 @@ body.b-page_mobile_yes .header_tablet_yes .arrow__corner {
 .country-flag_s16_ru {
 	width:16px;
 	height:12px;
-	background:url(//yastatic.net/images-islands/_/aXJK_o-btp1MZf_uqan_aQUD9os.png) no-repeat
+	background:url(http://yastatic.net/images-islands/_/aXJK_o-btp1MZf_uqan_aQUD9os.png) no-repeat
 }
 
 .i-ua_svg_yes .country-flag_s16_ru {
@@ -8613,7 +8613,7 @@ body.b-page_mobile_yes .header_tablet_yes .arrow__corner {
 .country-flag_s16_tr {
 	width:16px;
 	height:12px;
-	background:url(//yastatic.net/images-islands/_/M6kA4XbiMuI4Uu-c1ijEASKoTJM.png) no-repeat
+	background:url(http://yastatic.net/images-islands/_/M6kA4XbiMuI4Uu-c1ijEASKoTJM.png) no-repeat
 }
 
 .i-ua_svg_yes .country-flag_s16_tr {
@@ -8623,7 +8623,7 @@ body.b-page_mobile_yes .header_tablet_yes .arrow__corner {
 .country-flag_s16_tt {
 	width:16px;
 	height:12px;
-	background:url(//yastatic.net/images-islands/_/pLk7M6W3Q-qeeCXfx5Ps0kw4B2g.png) no-repeat
+	background:url(http://yastatic.net/images-islands/_/pLk7M6W3Q-qeeCXfx5Ps0kw4B2g.png) no-repeat
 }
 
 .i-ua_svg_yes .country-flag_s16_tt {
@@ -8633,7 +8633,7 @@ body.b-page_mobile_yes .header_tablet_yes .arrow__corner {
 .country-flag_s16_ua {
 	width:16px;
 	height:12px;
-	background:url(//yastatic.net/images-islands/_/llv_yrF9QpfJHH2NPeKAvGNpqYg.png) no-repeat
+	background:url(http://yastatic.net/images-islands/_/llv_yrF9QpfJHH2NPeKAvGNpqYg.png) no-repeat
 }
 
 .i-ua_svg_yes .country-flag_s16_ua {
@@ -8827,7 +8827,7 @@ body.b-page_mobile_yes .button_size_m.button_theme_pseudo {
 }
 
 .i-ua_svg_no .preview__thumb_pattern_transparent {
-	background-image:url(//yastatic.net/images-islands/_/Bj3icjy0ELuj01sneUuHJIAuxkQ.png)
+	background-image:url(http://yastatic.net/images-islands/_/Bj3icjy0ELuj01sneUuHJIAuxkQ.png)
 }
 
 .preview {
@@ -8939,7 +8939,7 @@ body.b-page_mobile_yes .button_size_m.button_theme_pseudo {
 }
 
 .i-ua_svg_no .preview__close .preview__close-icon {
-	background-image:url(//yastatic.net/images-islands/_/sBw3Ns1cRv8SoDkjgQGlpqvZqo4.png)
+	background-image:url(http://yastatic.net/images-islands/_/sBw3Ns1cRv8SoDkjgQGlpqvZqo4.png)
 }
 
 .b-page_fullscreen_yes .preview__close {
@@ -9014,7 +9014,7 @@ body.b-page_mobile_yes .button_size_m.button_theme_pseudo {
 }
 
 .i-ua_svg_no .preview__arrow_side_left .preview__arrow-icon {
-	background-image:url(//yastatic.net/images-islands/_/p8lXHHsoXsPvujaTRzfxT_Qzrcw.png)
+	background-image:url(http://yastatic.net/images-islands/_/p8lXHHsoXsPvujaTRzfxT_Qzrcw.png)
 }
 
 .preview_fullscreen_yes .preview__arrow_side_left .preview__arrow-icon {
@@ -9035,7 +9035,7 @@ body.b-page_mobile_yes .button_size_m.button_theme_pseudo {
 }
 
 .i-ua_svg_no .preview__arrow_side_right .preview__arrow-icon {
-	background-image:url(//yastatic.net/images-islands/_/TSAJ6NA5tvw2cWfN1PFvPq0vDUQ.png)
+	background-image:url(http://yastatic.net/images-islands/_/TSAJ6NA5tvw2cWfN1PFvPq0vDUQ.png)
 }
 
 .preview_fullscreen_yes .preview__arrow_side_right .preview__arrow-icon {
@@ -9144,7 +9144,7 @@ body.b-page_mobile_yes .button_size_m.button_theme_pseudo {
 }
 
 .i-ua_svg_no .zoom_size_small {
-	background-image:url(//yastatic.net/images-islands/_/_o7UyJQ3OSDPE5pS-W6xp-h2xKk.png)
+	background-image:url(http://yastatic.net/images-islands/_/_o7UyJQ3OSDPE5pS-W6xp-h2xKk.png)
 }
 
 .zoom_size_big {
@@ -9174,7 +9174,7 @@ body.b-page_mobile_yes .button_size_m.button_theme_pseudo {
 }
 
 .i-ua_svg_no .zoom_size_big .zoom__icon {
-	background-image:url(//yastatic.net/images-islands/_/o1HvPdyi9zY0pqGw2-7tqjuiVf8.png);
+	background-image:url(http://yastatic.net/images-islands/_/o1HvPdyi9zY0pqGw2-7tqjuiVf8.png);
 	-webkit-background-size:80px;
 	background-size:80px
 }
@@ -9248,11 +9248,11 @@ body.b-page_mobile_yes .button_size_m.button_theme_pseudo {
 }
 
 .i-ua_inlinesvg_no .spin_theme_gray-32 .spin__icon {
-	background-image:url(//yastatic.net/images-islands/_/nP4IZopD-Ls1QX5OEc8fM7074KM.png)
+	background-image:url(http://yastatic.net/images-islands/_/nP4IZopD-Ls1QX5OEc8fM7074KM.png)
 }
 
 .spin_theme_gray-32.spin_support-transforms_no .spin__icon {
-	background-image:url(//yastatic.net/images-islands/_/7krsYYRdn6RrDWcFpaGoGrpJ5ew.png)
+	background-image:url(http://yastatic.net/images-islands/_/7krsYYRdn6RrDWcFpaGoGrpJ5ew.png)
 }
 
 .spin_progress_yes {
@@ -9335,7 +9335,7 @@ body.b-page_mobile_yes .button_size_m.button_theme_pseudo {
 }
 
 .i-ua_inlinesvg_no .share-dropdown .button__icon_16_link {
-	background:url(//yastatic.net/images-islands/_/J-BKp6TtZRODtrQA7H47IMv_APs.png)
+	background:url(http://yastatic.net/images-islands/_/J-BKp6TtZRODtrQA7H47IMv_APs.png)
 }
 
 @media (max-width:1600px) {
@@ -9361,7 +9361,7 @@ body.b-page_mobile_yes .button_size_m.button_theme_pseudo {
 }
 
 .i-ua_inlinesvg_no .button__icon_8_down {
-	background-image:url(//yastatic.net/images-islands/_/oq9Hk5SdBReQBbTM8eFU_P90aLo.png)
+	background-image:url(http://yastatic.net/images-islands/_/oq9Hk5SdBReQBbTM8eFU_P90aLo.png)
 }
 
 .button__icon_6_back {
@@ -9385,7 +9385,7 @@ body.b-page_mobile_yes .button_size_m.button_theme_pseudo {
 }
 
 .i-ua_inlinesvg_no .share-dropdown__share-item_facebook_16 .image {
-	background-image:url(//yastatic.net/images-islands/_/G873E__Zf57xPSbZt7J1_q3v_xc.png)
+	background-image:url(http://yastatic.net/images-islands/_/G873E__Zf57xPSbZt7J1_q3v_xc.png)
 }
 
 .share-dropdown__share-item_twitter_16 .image {
@@ -9393,7 +9393,7 @@ body.b-page_mobile_yes .button_size_m.button_theme_pseudo {
 }
 
 .i-ua_inlinesvg_no .share-dropdown__share-item_twitter_16 .image {
-	background-image:url(//yastatic.net/images-islands/_/t-gUlvijzYBl6hRiKrTLFf_lpVg.png)
+	background-image:url(http://yastatic.net/images-islands/_/t-gUlvijzYBl6hRiKrTLFf_lpVg.png)
 }
 
 .share-dropdown__share-item_pinterest_16 .image {
@@ -9401,7 +9401,7 @@ body.b-page_mobile_yes .button_size_m.button_theme_pseudo {
 }
 
 .i-ua_inlinesvg_no .share-dropdown__share-item_pinterest_16 .image {
-	background-image:url(//yastatic.net/images-islands/_/DVE8yYPrnSKwa3BvQT76MG_v8eQ.png)
+	background-image:url(http://yastatic.net/images-islands/_/DVE8yYPrnSKwa3BvQT76MG_v8eQ.png)
 }
 
 .share-dropdown__share-item_vkontakte_16 .image {
@@ -9409,7 +9409,7 @@ body.b-page_mobile_yes .button_size_m.button_theme_pseudo {
 }
 
 .i-ua_inlinesvg_no .share-dropdown__share-item_vkontakte_16 .image {
-	background-image:url(//yastatic.net/images-islands/_/yjJsDbl4jvEyaoSRsG6Us-kj5Bs.png)
+	background-image:url(http://yastatic.net/images-islands/_/yjJsDbl4jvEyaoSRsG6Us-kj5Bs.png)
 }
 
 .share-dropdown__share-item_odnoklassniki_16 .image {
@@ -9417,7 +9417,7 @@ body.b-page_mobile_yes .button_size_m.button_theme_pseudo {
 }
 
 .i-ua_inlinesvg_no .share-dropdown__share-item_odnoklassniki_16 .image {
-	background-image:url(//yastatic.net/images-islands/_/0oy0DIXei3A0hOlO-BVD04HdwCs.png)
+	background-image:url(http://yastatic.net/images-islands/_/0oy0DIXei3A0hOlO-BVD04HdwCs.png)
 }
 
 .snippet_type_default {
@@ -11164,15 +11164,15 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_traffic_red {
-	background-image:url(//yastatic.net/images-islands/_/CWNKPjr2M6_DJUismb3OYQIilbs.png)
+	background-image:url(http://yastatic.net/images-islands/_/CWNKPjr2M6_DJUismb3OYQIilbs.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_traffic_yellow {
-	background-image:url(//yastatic.net/images-islands/_/SnUg8-niquez5PGazW8ZdLGO8o.png)
+	background-image:url(http://yastatic.net/images-islands/_/SnUg8-niquez5PGazW8ZdLGO8o.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_traffic_green {
-	background-image:url(//yastatic.net/images-islands/_/tmpwNd8tOb-ZaTH96CQUrdDcUj8.png)
+	background-image:url(http://yastatic.net/images-islands/_/tmpwNd8tOb-ZaTH96CQUrdDcUj8.png)
 }
 
 .suggest2-item_type_weather .suggest2-item__value {
@@ -11184,227 +11184,227 @@ body .search__input {
 }
 
 .suggest2-item__icon_weather_bkn-plus-ra-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-plus-ra-d.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-plus-ra-d.svg)
 }
 
 .suggest2-item__icon_weather_bkn-plus-ra-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-plus-ra-n.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-plus-ra-n.svg)
 }
 
 .suggest2-item__icon_weather_bkn-plus-sn-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-plus-sn-d.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-plus-sn-d.svg)
 }
 
 .suggest2-item__icon_weather_bkn-plus-sn-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-plus-sn-n.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-plus-sn-n.svg)
 }
 
 .suggest2-item__icon_weather_bkn-minus-ra-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-minus-ra-d.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-minus-ra-d.svg)
 }
 
 .suggest2-item__icon_weather_bkn-minus-ra-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-minus-ra-n.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-minus-ra-n.svg)
 }
 
 .suggest2-item__icon_weather_bkn-minus-sn-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-minus-sn-d.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-minus-sn-d.svg)
 }
 
 .suggest2-item__icon_weather_bkn-minus-sn-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-minus-sn-n.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-minus-sn-n.svg)
 }
 
 .suggest2-item__icon_weather_bkn-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-d.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-d.svg)
 }
 
 .suggest2-item__icon_weather_bkn-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-n.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-n.svg)
 }
 
 .suggest2-item__icon_weather_bkn-ra-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-ra-d.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-ra-d.svg)
 }
 
 .suggest2-item__icon_weather_bkn-ra-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-ra-n.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-ra-n.svg)
 }
 
 .suggest2-item__icon_weather_bkn-sn-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-sn-d.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-sn-d.svg)
 }
 
 .suggest2-item__icon_weather_bkn-sn-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-sn-n.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-sn-n.svg)
 }
 
 .suggest2-item__icon_weather_bl {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bl.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bl.svg)
 }
 
 .suggest2-item__icon_weather_fg-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/fg-d.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/fg-d.svg)
 }
 
 .suggest2-item__icon_weather_fg-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/fg-n.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/fg-n.svg)
 }
 
 .suggest2-item__icon_weather_ovc {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc.svg)
 }
 
 .suggest2-item__icon_weather_ovc-plus-ra {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-plus-ra.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-plus-ra.svg)
 }
 
 .suggest2-item__icon_weather_ovc-plus-sn {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-plus-sn.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-plus-sn.svg)
 }
 
 .suggest2-item__icon_weather_ovc-minus-ra {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-minus-ra.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-minus-ra.svg)
 }
 
 .suggest2-item__icon_weather_ovc-minus-sn {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-minus-sn.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-minus-sn.svg)
 }
 
 .suggest2-item__icon_weather_ovc-gr {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-gr.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-gr.svg)
 }
 
 .suggest2-item__icon_weather_ovc-ra {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-ra.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-ra.svg)
 }
 
 .suggest2-item__icon_weather_ovc-sn {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-sn.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-sn.svg)
 }
 
 .suggest2-item__icon_weather_ovc-ts-ra {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-ts-ra.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-ts-ra.svg)
 }
 
 .suggest2-item__icon_weather_skc-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/skc-d.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/skc-d.svg)
 }
 
 .suggest2-item__icon_weather_skc-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/skc-n.svg)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/skc-n.svg)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_bkn-plus-ra-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-plus-ra-d.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-plus-ra-d.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_bkn-plus-ra-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-plus-ra-n.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-plus-ra-n.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_bkn-plus-sn-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-plus-sn-d.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-plus-sn-d.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_bkn-plus-sn-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-plus-sn-n.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-plus-sn-n.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_bkn-minus-ra-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-minus-ra-d.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-minus-ra-d.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_bkn-minus-ra-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-minus-ra-n.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-minus-ra-n.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_bkn-minus-sn-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-minus-sn-d.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-minus-sn-d.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_bkn-minus-sn-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-minus-sn-n.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-minus-sn-n.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_bkn-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-d.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-d.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_bkn-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-n.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-n.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_bkn-ra-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-ra-d.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-ra-d.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_bkn-ra-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-ra-n.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-ra-n.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_bkn-sn-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-sn-d.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-sn-d.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_bkn-sn-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bkn-sn-n.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bkn-sn-n.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_bl {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/bl.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/bl.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_fg-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/fg-d.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/fg-d.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_fg-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/fg-n.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/fg-n.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_ovc {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_ovc-plus-ra {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-plus-ra.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-plus-ra.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_ovc-plus-sn {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-plus-sn.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-plus-sn.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_ovc-minus-ra {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-minus-ra.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-minus-ra.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_ovc-minus-sn {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-minus-sn.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-minus-sn.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_ovc-gr {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-gr.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-gr.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_ovc-ra {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-ra.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-ra.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_ovc-sn {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-sn.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-sn.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_ovc-ts-ra {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/ovc-ts-ra.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/ovc-ts-ra.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_skc-d {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/skc-d.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/skc-d.png)
 }
 
 .i-ua_inlinesvg_no .suggest2-item__icon_weather_skc-n {
-	background-image:url(//yastatic.net/weather/i/icons/islands/32/skc-n.png)
+	background-image:url(http://yastatic.net/weather/i/icons/islands/32/skc-n.png)
 }
 
 .suggest2-item_type_icon .suggest2-item__fact {
@@ -12006,7 +12006,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__afisha_self_40 {
-	background:url(//yastatic.net/images-islands/_/BD9cJSH8sDMb55qqlm5714T5OdU.png)
+	background:url(http://yastatic.net/images-islands/_/BD9cJSH8sDMb55qqlm5714T5OdU.png)
 }
 
 .service-icon__appsearch_self_40 {
@@ -12016,7 +12016,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__appsearch_self_40 {
-	background:url(//yastatic.net/images-islands/_/dRMLS5g5q19H6XihT98R8cyYRcQ.png)
+	background:url(http://yastatic.net/images-islands/_/dRMLS5g5q19H6XihT98R8cyYRcQ.png)
 }
 
 .service-icon__auto_self_40 {
@@ -12026,7 +12026,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__auto_self_40 {
-	background:url(//yastatic.net/images-islands/_/BYT7nmJWhOGai0C1w0al82csVcE.png)
+	background:url(http://yastatic.net/images-islands/_/BYT7nmJWhOGai0C1w0al82csVcE.png)
 }
 
 .service-icon__blogs_self_40 {
@@ -12036,7 +12036,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__blogs_self_40 {
-	background:url(//yastatic.net/images-islands/_/kQXYUdkUr3xYRCczj3JbwzKw6zw.png)
+	background:url(http://yastatic.net/images-islands/_/kQXYUdkUr3xYRCczj3JbwzKw6zw.png)
 }
 
 .service-icon__fresh_self_40 {
@@ -12046,7 +12046,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__fresh_self_40 {
-	background:url(//yastatic.net/images-islands/_/mTzRXJ02kky72LbsFcuUunC1aCM.png)
+	background:url(http://yastatic.net/images-islands/_/mTzRXJ02kky72LbsFcuUunC1aCM.png)
 }
 
 .service-icon__images_self_40 {
@@ -12056,7 +12056,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__images_self_40 {
-	background:url(//yastatic.net/images-islands/_/KwlWa5sDP4CjKYuVXT1_LMu7DTg.png)
+	background:url(http://yastatic.net/images-islands/_/KwlWa5sDP4CjKYuVXT1_LMu7DTg.png)
 }
 
 .service-icon__avia_self_40 {
@@ -12066,7 +12066,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__avia_self_40 {
-	background:url(//yastatic.net/images-islands/_/dTGk3_Es0hZRZ1PDYrK9W8iivBw.png)
+	background:url(http://yastatic.net/images-islands/_/dTGk3_Es0hZRZ1PDYrK9W8iivBw.png)
 }
 
 .service-icon__mail_self_40 {
@@ -12076,7 +12076,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__mail_self_40 {
-	background:url(//yastatic.net/images-islands/_/DD1BArtWrE0BDLh-XQE4ihDFQng.png)
+	background:url(http://yastatic.net/images-islands/_/DD1BArtWrE0BDLh-XQE4ihDFQng.png)
 }
 
 .service-icon__maps_self_40 {
@@ -12086,7 +12086,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__maps_self_40 {
-	background:url(//yastatic.net/images-islands/_/mXBhoLb089BAnK0Xir25uSlCejw.png)
+	background:url(http://yastatic.net/images-islands/_/mXBhoLb089BAnK0Xir25uSlCejw.png)
 }
 
 .service-icon__market_self_40 {
@@ -12096,7 +12096,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__market_self_40 {
-	background:url(//yastatic.net/images-islands/_/5gYT4L-vEfwGObxKVL_mB88haDw.png)
+	background:url(http://yastatic.net/images-islands/_/5gYT4L-vEfwGObxKVL_mB88haDw.png)
 }
 
 .service-icon__music_self_40 {
@@ -12106,11 +12106,11 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__music_self_40 {
-	background:url(//yastatic.net/images-islands/_/LTNKnzcE687L7Xtc5PQQEJ9Q49Y.png)
+	background:url(http://yastatic.net/images-islands/_/LTNKnzcE687L7Xtc5PQQEJ9Q49Y.png)
 }
 
 .i-ua_inlinesvg_no.i-ua_retina_yes .service-icon__music_self_40 {
-	background:url(//yastatic.net/images-islands/_/M4lyyJeVRyhgatkrfwtO7bjGouQ.png)
+	background:url(http://yastatic.net/images-islands/_/M4lyyJeVRyhgatkrfwtO7bjGouQ.png)
 }
 
 .service-icon__news_self_40 {
@@ -12120,7 +12120,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__news_self_40 {
-	background:url(//yastatic.net/images-islands/_/wS7En28gf3JGWA4cORMuFzuxn-4.png)
+	background:url(http://yastatic.net/images-islands/_/wS7En28gf3JGWA4cORMuFzuxn-4.png)
 }
 
 .service-icon__peoplesearch_self_40 {
@@ -12130,7 +12130,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__peoplesearch_self_40 {
-	background:url(//yastatic.net/images-islands/_/gDAKcX2kV7vhftQPkhwXDDxFpDk.png)
+	background:url(http://yastatic.net/images-islands/_/gDAKcX2kV7vhftQPkhwXDDxFpDk.png)
 }
 
 .service-icon__rabota_self_40 {
@@ -12140,7 +12140,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__rabota_self_40 {
-	background:url(//yastatic.net/images-islands/_/CtmI68tap9q1fxPDYU08CZcWa8o.png)
+	background:url(http://yastatic.net/images-islands/_/CtmI68tap9q1fxPDYU08CZcWa8o.png)
 }
 
 .service-icon__rasp_self_40 {
@@ -12150,7 +12150,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__rasp_self_40 {
-	background:url(//yastatic.net/images-islands/_/P19n7cb2d0hCxO6u0dpwyuG_lvw.png)
+	background:url(http://yastatic.net/images-islands/_/P19n7cb2d0hCxO6u0dpwyuG_lvw.png)
 }
 
 .service-icon__realty_self_40 {
@@ -12160,7 +12160,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__realty_self_40 {
-	background:url(//yastatic.net/images-islands/_/VUZCC9zh7i1o3JYSfIwyBdNzPM0.png)
+	background:url(http://yastatic.net/images-islands/_/VUZCC9zh7i1o3JYSfIwyBdNzPM0.png)
 }
 
 .service-icon__review_self_40 {
@@ -12170,7 +12170,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__review_self_40 {
-	background:url(//yastatic.net/images-islands/_/tMW5yRcvBtv8TYE7pUWyCKG8o7g.png)
+	background:url(http://yastatic.net/images-islands/_/tMW5yRcvBtv8TYE7pUWyCKG8o7g.png)
 }
 
 .service-icon__slovari_self_40 {
@@ -12180,7 +12180,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__slovari_self_40 {
-	background:url(//yastatic.net/images-islands/_/Xy3JCwEYFM1CVhwSJKLxXjWjYWc.png)
+	background:url(http://yastatic.net/images-islands/_/Xy3JCwEYFM1CVhwSJKLxXjWjYWc.png)
 }
 
 .service-icon__translate_self_40 {
@@ -12190,7 +12190,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__translate_self_40 {
-	background:url(//yastatic.net/images-islands/_/U3s71GZQKx0z2DetiY6_LUji3g0.png)
+	background:url(http://yastatic.net/images-islands/_/U3s71GZQKx0z2DetiY6_LUji3g0.png)
 }
 
 .service-icon__tv_self_40 {
@@ -12200,7 +12200,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__tv_self_40 {
-	background:url(//yastatic.net/images-islands/_/e2jtG78jCGEtdb4ECTLglDY7Nr8.png)
+	background:url(http://yastatic.net/images-islands/_/e2jtG78jCGEtdb4ECTLglDY7Nr8.png)
 }
 
 .service-icon__video_self_40 {
@@ -12210,7 +12210,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__video_self_40 {
-	background:url(//yastatic.net/images-islands/_/X8-_C2NJ6P1voVeJpFYfwlCUd7o.png)
+	background:url(http://yastatic.net/images-islands/_/X8-_C2NJ6P1voVeJpFYfwlCUd7o.png)
 }
 
 .service-icon__weather_self_40 {
@@ -12220,7 +12220,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__weather_self_40 {
-	background:url(//yastatic.net/images-islands/_/cWZYtX3LCDrbLCLUmz4jorG0JCw.png)
+	background:url(http://yastatic.net/images-islands/_/cWZYtX3LCDrbLCLUmz4jorG0JCw.png)
 }
 
 .service-icon__www_self_40 {
@@ -12230,7 +12230,7 @@ body .search__input {
 }
 
 .i-ua_inlinesvg_no .service-icon__www_self_40 {
-	background:url(//yastatic.net/images-islands/_/NFuDUZrG1tR2ol9-yxo_UhMXCuk.png)
+	background:url(http://yastatic.net/images-islands/_/NFuDUZrG1tR2ol9-yxo_UhMXCuk.png)
 }
 
 .navigation_more-type_tablo .navigation__more .service__icon {
@@ -12240,7 +12240,7 @@ body .search__input {
 }
 
 .i-ua_svg_no .navigation_more-type_tablo .navigation__more .service__icon {
-	background-image:url(//yastatic.net/images-islands/_/QV4g2yrDB6azugsC2_gtGERvjzQ.png)
+	background-image:url(http://yastatic.net/images-islands/_/QV4g2yrDB6azugsC2_gtGERvjzQ.png)
 }
 
 .navigation_text-nav_yes {
@@ -13344,7 +13344,7 @@ body .input_type_textarea .input__control {
 	display:none;
 	width:54px;
 	height:34px;
-	background:url(//yastatic.net/lego/_/ptECF78Gd5HNzX_MN0nvbHfolOE.gif) 12px 13px no-repeat
+	background:url(http://yastatic.net/lego/_/ptECF78Gd5HNzX_MN0nvbHfolOE.gif) 12px 13px no-repeat
 }
 
 .b-mooa_visibility_visible {
@@ -13358,7 +13358,7 @@ body .input_type_textarea .input__control {
 	width:54px;
 	height:34px;
 	cursor:pointer;
-	background:url(//yastatic.net/images-islands/_/b4tHN_Wz1aStmb91Od_h2ly4s1s.png)
+	background:url(http://yastatic.net/images-islands/_/b4tHN_Wz1aStmb91Od_h2ly4s1s.png)
 }
 
 .b-page_type_index .b-mooa_internal_yes, .b-page_type_seed .b-mooa_internal_yes {
@@ -13370,11 +13370,11 @@ body .input_type_textarea .input__control {
 }
 
 .b-mooa_loading_progress {
-	background:url(//yastatic.net/images-islands/_/b4tHN_Wz1aStmb91Od_h2ly4s1s.png) 0 -34px
+	background:url(http://yastatic.net/images-islands/_/b4tHN_Wz1aStmb91Od_h2ly4s1s.png) 0 -34px
 }
 
 .b-mooa_loading_progress .b-mooa__open {
-	background:url(//yastatic.net/lego/_/ptECF78Gd5HNzX_MN0nvbHfolOE.gif) 12px 13px no-repeat
+	background:url(http://yastatic.net/lego/_/ptECF78Gd5HNzX_MN0nvbHfolOE.gif) 12px 13px no-repeat
 }
 
 .b-page_fullscreen_yes {
@@ -13769,7 +13769,7 @@ body .input_type_textarea .input__control {
 }
 
 .i-ua_inlinesvg_no .popup_filter_unlimited .popup__content-wrap {
-	background:url(//yastatic.net/images-islands/_/wu7ShA7NJv9hCQyxL7EO38XWGg0.png) no-repeat
+	background:url(http://yastatic.net/images-islands/_/wu7ShA7NJv9hCQyxL7EO38XWGg0.png) no-repeat
 }
 
 .head-filter__icon {
@@ -13799,7 +13799,7 @@ body .input_type_textarea .input__control {
 .head-filter__icon {
 	-webkit-background-size:auto;
 	background-size:auto;
-	background-image:url(//yastatic.net/images-islands/_/4wVduoE3u0NzXuvjSzKG6TmBw8k.png)
+	background-image:url(http://yastatic.net/images-islands/_/4wVduoE3u0NzXuvjSzKG6TmBw8k.png)
 }
 
 .head-filter_type_unlimited .head-filter__icon {
@@ -13929,7 +13929,7 @@ body .input_type_textarea .input__control {
 }
 
 .i-ua_svg_no .popup__feedback .popup__close {
-	background-image:url(//yastatic.net/images-islands/_/kWggg6iAt32aOuVOfC5SUpCGiZw.png)
+	background-image:url(http://yastatic.net/images-islands/_/kWggg6iAt32aOuVOfC5SUpCGiZw.png)
 }
 
 .b-page_500px_yes .page-layout__column_type_content {
