@@ -1,0 +1,11 @@
+.nav__sub-item_content_content-filter {
+	float:right;
+}
+
+.button_size_S .icon {
+	margin:3px 1px 3px 5px;
+}
+
+.button_size_S .button__label[data-first-letter="1"] {
+	padding-left:1px;
+}

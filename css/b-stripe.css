@@ -1,0 +1,11 @@
+.b-stripe {
+	position:relative;
+}
+
+.b-stripe:before,
+.b-stripe:after {
+	content:'';
+	clear:both;
+	display:table;
+	width:100%;
+}
